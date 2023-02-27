@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RoomDB_RxJava_LiveData</string>
+    <string name="str_no_data">No Data</string>
+</resources>
